@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 
+//remove task by clickin on it
 class TodoComp extends Component {
   createTasks = item => {
     return (
